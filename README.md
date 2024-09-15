@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Huzaifa206
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning Next.js
+- 📫 How to reach me huzaifasiddiqui@gmail.com
