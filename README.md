@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Huzaifa206
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Next.js
+- 🌱 HTML5-CSS-Javascript-Typescript-TailwindCSS-ReactJS-NextJS-Python-WordPress
 - 📫 How to reach me huzaifasiddiqui@gmail.com
